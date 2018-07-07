@@ -4,7 +4,8 @@
 
 Type: C# Console Application 
 
-Description: A peer-to-peer chat application utilizing Wi-Fi Direct.
+Description: A peer-to-peer instant messaging application for
+communication over Wi-Fi Direct.
 
 Parameter0:string = "Listen" or "Connect" 
 
