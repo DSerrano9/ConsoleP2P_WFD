@@ -6,7 +6,11 @@ Type: C# Console Application
 
 Description: A peer-to-peer chat application utilizing Wi-Fi Direct.
 
-Parameter0:string = (Listen = works as server) or (Connect = works as client)
+Parameter0:string = "Listen" or "Connect" 
+
+Listen = works as server.
+
+Connect = works as client.
 
 Parameter1:string = Local Peer Display Name
 
