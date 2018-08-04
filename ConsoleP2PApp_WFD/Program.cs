@@ -142,7 +142,7 @@ namespace ConsoleP2PApp_WFD
             {
                 Console.Write("Local Host>  ");
                 string str = SequenceReaderWriter.ReadLine() ?? "EXIT";
-                if (str.ToUpper() == "EXIT") { return; }
+                if (str.Trim().ToUpper() == "EXIT") { return; }
                 Send(writer, str);
             }
         }
