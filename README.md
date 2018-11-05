@@ -1,6 +1,6 @@
 ------------------------------------------------------
 
-**ConsoleP2PApp_WFD.exe**
+**P2PConsoleApp_WFD.exe**
 
 Type: C# Console Application 
 
@@ -28,11 +28,11 @@ Start
 
 1.) Using CMD.exe, type the path and then press enter. 
 
-e.g. "cd C:\Users\\...\Debug"
+e.g. "cd C:\\...\\Debug"
 
 2.) Type the application name and arguments and then press enter. 
 
-e.g. "ConsoleP2PApp_WFD.exe listen localpeer remotepeer"
+e.g. "P2PConsoleApp_WFD.exe listen localpeer remotepeer"
 
 Shutdown
 
